@@ -1,4 +1,7 @@
 # gitPractice
-Practice coursera 
 
-this is just a repo for practice coursera qwicklab
+## Practice coursera 
+disini practice coursera
+
+## Practice Dicoding
+disini practice dicoding
